@@ -1,0 +1,8 @@
+customer_id,account_id,full_name,customer_risk_category,clean_tx_date,tx_amount_eur,tx_type,is_cash,tx_country,tx_country_risk_level,alert_reason
+C045,A003,Customer_45,Medium,2023-04-18,254942.82,Wire Transfer,0,United States,Medium,High-Value Tx (≥100k EUR)
+C008,A001,Customer_8,High,2025-05-01,230954.25,Wire Transfer,0,Brazil,Medium,High-Value Tx (≥100k EUR)
+C008,A001,Customer_8,High,2024-09-10,192608.58,Cash Withdrawal,1,France,Low,High-Value Tx (≥100k EUR)
+C045,A004,Customer_45,Medium,2023-09-17,167240.68,Wire Transfer,0,Russia,High,High-Value Tx (≥100k EUR)
+C045,A004,Customer_45,Medium,2022-11-24,132713.51,Cash Withdrawal,1,United States,Medium,High-Value Tx (≥100k EUR)
+C045,A003,Customer_45,Medium,2024-09-19,120032.36,Cash Deposit,1,Germany,Low,High-Value Tx (≥100k EUR)
+C008,A001,Customer_8,High,2024-09-11,109067.52,Cash Withdrawal,1,Russia,High,High-Value Tx (≥100k EUR)

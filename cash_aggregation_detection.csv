@@ -1,0 +1,5 @@
+customer_id,full_name,no_of_cash_tx,total_cash_tx_amount,alert_reason
+C016,Customer_16,3,16274.19,Cash Aggregation
+C010,Customer_10,3,15471.44,Cash Aggregation
+C047,Customer_47,3,11292.08,Cash Aggregation
+C011,Customer_11,3,10147.83,Cash Aggregation

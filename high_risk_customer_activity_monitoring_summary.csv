@@ -1,0 +1,17 @@
+customer_id,customer_risk_category,customer_country_risk_level,total_alert_transactions,total_tx_amount_eur,avg_tx_amount_eur,high_risk_country_tx_count,primary_alert_type
+C002,Low,Low,3,12014.21,4004.74,0,Cash Activity
+C003,Medium,Low,4,41998.79,10499.7,1,High-Risk Geography
+C004,Low,Low,3,10184.08,3394.69,0,Mixed Activity
+C008,High,Low,4,576000.57,144000.14,1,High-Risk Geography
+C010,Low,Low,5,19704.12,3940.82,1,High-Risk Geography
+C023,Medium,Low,5,70200.43,14040.09,2,High-Risk Geography
+C026,High,Low,3,53344.18,17781.39,0,Mixed Activity
+C031,High,Low,2,33109.63,16554.82,0,Mixed Activity
+C032,Medium,Low,4,53982.12,13495.53,1,High-Risk Geography
+C033,Medium,High,4,15880.64,3970.16,1,High-Risk Geography
+C034,Medium,Medium,5,65179.92,13035.98,1,High-Risk Geography
+C039,Low,Low,2,8332.36,4166.18,1,High-Risk Geography
+C040,Low,Low,5,10816.34,2163.27,2,High-Risk Geography
+C042,Low,Low,2,8013.25,4006.63,0,Mixed Activity
+C047,Medium,High,4,15838.51,3959.63,0,Cash Activity
+C048,High,High,6,95559.47,15926.58,1,High-Risk Geography

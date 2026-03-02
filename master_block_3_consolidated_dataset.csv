@@ -1,0 +1,201 @@
+customer_id,account_id,full_name,pep_status,product_type,customer_country,customer_country_risk_level,max_tx_amount_eur,avg_tx_amount_eur,final_risk_score,customer_risk_category,tx_id,clean_tx_date,tx_amount_eur,tx_type,is_cash,tx_country,tx_country_risk_level
+C019,A061,Customer_19,N,Crypto,United States,Medium,5103.5683,3392.35742,1,Low,T0001,2025-09-11,5000.65,Cash Withdrawal,1,Nigeria,High
+C006,A062,Customer_6,N,Loan,Russia,High,6473.77,2893.32612,3,Low,T0002,2023-08-29,1372.3364,Cash Withdrawal,1,Singapore,Low
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0003,2024-08-03,2182.3876,Cash Withdrawal,1,Germany,Low
+C013,A063,Customer_13,N,Insurance,United States,Medium,6103.0981,3907.62892,1,Low,T0004,2024-07-01,6103.0981,Cash Withdrawal,1,Germany,Low
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0005,2024-02-04,4950.26,Cash Deposit,1,United Kingdom,Low
+C043,A059,Customer_43,N,Insurance,China,Medium,5899.9265,4379.9328,1,Low,T0006,2025-11-06,1784.5567,Wire Transfer,0,China,Medium
+C046,A044,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0007,2025-01-22,5041.6296,Cash Withdrawal,1,France,Low
+C042,A068,Customer_42,Y,Bank Account,Germany,Low,4714.98,4006.6275,3,Low,T0008,2024-12-26,4714.98,Cash Deposit,1,France,Low
+C009,A069,Customer_9,N,Bank Account,China,Medium,6491.67,4566.97516,1,Low,T0009,2025-11-03,2595.4112,Wire Transfer,0,Russia,High
+C048,A019,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0010,2023-07-05,16961.6507,Wire Transfer,0,United Kingdom,Low
+C021,A065,Customer_21,N,Investment Account,United Kingdom,Low,6016.5351,4555.81674,0,Low,T0011,2025-11-25,6016.5351,Cash Withdrawal,1,Switzerland,Low
+C015,A010,Customer_15,N,Investment Account,Russia,High,14543.0548,11992.8264,5,Medium,T0012,2026-01-01,10257.1684,Cash Withdrawal,1,Germany,Low
+C035,A071,Customer_35,N,Crypto,Switzerland,Low,5302.43,3120.10815,0,Low,T0013,2025-12-31,4051.202,Wire Transfer,0,United States,Medium
+C045,A003,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0014,2022-10-22,95418.2558,Wire Transfer,0,Germany,Low
+C010,A075,Customer_10,Y,Loan,Singapore,Low,7316.1892,3940.82326,3,Low,T0015,2022-09-30,2820.8945,Cash Withdrawal,1,France,Low
+C030,A049,Customer_30,N,Crypto,Switzerland,Low,6898.71,4667.36854,0,Low,T0016,2023-08-07,1805.5012,Cash Withdrawal,1,United Kingdom,Low
+C035,A071,Customer_35,N,Crypto,Switzerland,Low,5302.43,3120.10815,0,Low,T0017,2024-06-23,437.0606,Cash Deposit,1,Singapore,Low
+C012,A027,Customer_12,N,Insurance,Switzerland,Low,11689.6109,10024.9515666667,2,Low,T0018,2024-07-30,11689.6109,Cash Deposit,1,Brazil,Medium
+C045,A004,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0019,2022-11-24,132713.5058,Cash Withdrawal,1,United States,Medium
+C029,A037,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0020,2026-01-01,9905.53,Cash Deposit,1,Switzerland,Low
+C010,A075,Customer_10,Y,Loan,Singapore,Low,7316.1892,3940.82326,3,Low,T0021,2023-01-31,7316.1892,Cash Deposit,1,United States,Medium
+C043,A059,Customer_43,N,Insurance,China,Medium,5899.9265,4379.9328,1,Low,T0022,2024-11-08,3872.8122,Wire Transfer,0,United Kingdom,Low
+C006,A062,Customer_6,N,Loan,Russia,High,6473.77,2893.32612,3,Low,T0023,2024-08-02,871.58,Wire Transfer,0,Brazil,Medium
+C049,A046,Customer_49,N,Crypto,United States,Medium,3250.7028,2362.4176,1,Low,T0024,2024-04-18,3250.7028,Cash Withdrawal,1,Switzerland,Low
+C048,A019,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0025,2023-06-16,17099.884,Wire Transfer,0,Germany,Low
+C034,A031,Customer_34,Y,Loan,Brazil,Medium,19281.4107,13035.9839,6,Medium,T0026,2026-01-01,15021.82,Wire Transfer,0,United Kingdom,Low
+C002,A052,Customer_2,Y,Investment Account,United Kingdom,Low,5461.71,4004.7352,3,Low,T0027,2023-10-06,5461.71,Cash Deposit,1,France,Low
+C035,A071,Customer_35,N,Crypto,Switzerland,Low,5302.43,3120.10815,0,Low,T0028,2025-10-16,5302.43,Cash Withdrawal,1,United Kingdom,Low
+C030,A049,Customer_30,N,Crypto,Switzerland,Low,6898.71,4667.36854,0,Low,T0029,2025-08-30,6898.71,Wire Transfer,0,Russia,High
+C021,A065,Customer_21,N,Investment Account,United Kingdom,Low,6016.5351,4555.81674,0,Low,T0030,2024-09-26,1729.718,Wire Transfer,0,Germany,Low
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0031,2022-11-25,6424.22,Wire Transfer,0,Brazil,Medium
+C026,A008,Customer_26,Y,Bank Account,France,Low,20721.727,17781.3940666667,8,High,T0032,2025-04-11,15340.5,Wire Transfer,0,Singapore,Low
+C043,A059,Customer_43,N,Insurance,China,Medium,5899.9265,4379.9328,1,Low,T0033,2025-02-22,4636.5868,Wire Transfer,0,Brazil,Medium
+C007,A060,Customer_7,N,Insurance,Russia,High,6554.4883,4752.59184,3,Low,T0034,2024-08-18,5969.6584,Cash Deposit,1,Germany,Low
+C018,A018,Customer_18,N,Insurance,Germany,Low,13630.8624,9498.4312,2,Low,T0035,2023-04-28,8307.3516,Cash Deposit,1,Switzerland,Low
+C008,A001,Customer_8,Y,Insurance,Switzerland,Low,230954.2463,144000.142675,8,High,T0036,2024-09-11,109067.52,Cash Withdrawal,1,Russia,High
+C040,A064,Customer_40,Y,Investment Account,Switzerland,Low,3866.5734,2163.26736,3,Low,T0037,2026-01-01,3866.5734,Cash Withdrawal,1,Nigeria,High
+C037,A067,Customer_37,N,Investment Account,Brazil,Medium,4907.9616,4160.80773333333,1,Low,T0038,2025-04-28,3690.65,Wire Transfer,0,Russia,High
+C044,A006,Customer_44,N,Investment Account,Singapore,Low,20614.4274,13903.28734,4,Medium,T0039,2024-06-23,9515.0486,Cash Withdrawal,1,China,Medium
+C046,A044,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0040,2023-09-21,1250.36,Wire Transfer,0,Switzerland,Low
+C015,A009,Customer_15,N,Investment Account,Russia,High,14543.0548,11992.8264,5,Medium,T0041,2025-08-10,11170.8324,Wire Transfer,0,China,Medium
+C013,A063,Customer_13,N,Insurance,United States,Medium,6103.0981,3907.62892,1,Low,T0042,2025-08-19,772.32,Cash Deposit,1,China,Medium
+C013,A063,Customer_13,N,Insurance,United States,Medium,6103.0981,3907.62892,1,Low,T0043,2024-07-24,4915.244,Cash Withdrawal,1,Russia,High
+C014,A036,Customer_14,N,Insurance,China,Medium,12029.551,9308.50386666667,3,Low,T0044,2024-10-03,8619.1006,Wire Transfer,0,Switzerland,Low
+C046,A044,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0045,2025-09-25,5742.4,Cash Withdrawal,1,Nigeria,High
+C050,A039,Customer_50,N,Crypto,United Kingdom,Low,13212.9454,9886.92476666667,2,Low,T0046,2026-01-01,7233.77,Cash Deposit,1,United States,Medium
+C037,A067,Customer_37,N,Investment Account,Brazil,Medium,4907.9616,4160.80773333333,1,Low,T0047,2026-01-01,3883.8116,Wire Transfer,0,Brazil,Medium
+C022,A023,Customer_22,N,Crypto,Brazil,Medium,16835.6796,13917.162875,3,Low,T0048,2024-02-20,16835.6796,Cash Withdrawal,1,China,Medium
+C027,A057,Customer_27,N,Bank Account,France,Low,6270.25,4296.8837,0,Low,T0049,2024-10-23,6270.25,Cash Withdrawal,1,United States,Medium
+C013,A063,Customer_13,N,Insurance,United States,Medium,6103.0981,3907.62892,1,Low,T0050,2025-04-25,5193.0417,Wire Transfer,0,China,Medium
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0051,2023-06-28,4040.8218,Cash Withdrawal,1,China,Medium
+C015,A010,Customer_15,N,Investment Account,Russia,High,14543.0548,11992.8264,5,Medium,T0052,2026-01-01,14543.0548,Cash Deposit,1,Singapore,Low
+C019,A061,Customer_19,N,Crypto,United States,Medium,5103.5683,3392.35742,1,Low,T0053,2025-11-04,5103.5683,Cash Withdrawal,1,Germany,Low
+C023,A029,Customer_23,Y,Bank Account,France,Low,17821.48,14040.08682,5,Medium,T0054,2026-01-01,17821.48,Cash Withdrawal,1,Switzerland,Low
+C015,A010,Customer_15,N,Investment Account,Russia,High,14543.0548,11992.8264,5,Medium,T0055,2026-01-01,12000.25,Cash Withdrawal,1,Brazil,Medium
+C043,A059,Customer_43,N,Insurance,China,Medium,5899.9265,4379.9328,1,Low,T0056,2024-03-25,5705.7818,Cash Deposit,1,Switzerland,Low
+C050,A040,Customer_50,N,Crypto,United Kingdom,Low,13212.9454,9886.92476666667,2,Low,T0057,2026-01-01,13212.9454,Wire Transfer,0,Russia,High
+C033,A055,Customer_33,Y,Crypto,Russia,High,6040.1179,3970.159675,6,Medium,T0058,2025-05-04,2102.0722,Cash Deposit,1,Germany,Low
+C048,A019,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0059,2023-01-05,17612.7778,Wire Transfer,0,China,Medium
+C005,A073,Customer_5,N,Loan,France,Low,6608.1595,3854.551375,0,Low,T0060,2026-01-01,1920.6724,Wire Transfer,0,United Kingdom,Low
+C025,A054,Customer_25,N,Investment Account,Switzerland,Low,4939.3,2146.52123333333,0,Low,T0061,2025-01-16,4939.3,Cash Deposit,1,France,Low
+C020,A026,Customer_20,N,Crypto,Singapore,Low,20768.7535,13532.3371,4,Medium,T0062,2025-02-25,8978.9478,Wire Transfer,0,France,Low
+C007,A060,Customer_7,N,Insurance,Russia,High,6554.4883,4752.59184,3,Low,T0063,2022-11-14,5379.6604,Wire Transfer,0,United Kingdom,Low
+C041,A041,Customer_41,N,Bank Account,United States,Medium,11699.2195,10904.1957,3,Low,T0064,2023-01-24,10323.1032,Wire Transfer,0,Nigeria,High
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0065,2022-12-22,4899.7898,Cash Deposit,1,Germany,Low
+C048,A020,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0066,2024-01-09,18711.7427,Cash Withdrawal,1,Nigeria,High
+C003,A011,Customer_3,Y,Crypto,Germany,Low,12736.07,10499.696325,5,Medium,T0067,2024-07-02,8922.46,Cash Withdrawal,1,Switzerland,Low
+C025,A054,Customer_25,N,Investment Account,Switzerland,Low,4939.3,2146.52123333333,0,Low,T0068,2024-11-07,664.69,Cash Deposit,1,France,Low
+C044,A006,Customer_44,N,Investment Account,Singapore,Low,20614.4274,13903.28734,4,Medium,T0069,2024-04-11,15185.6219,Cash Deposit,1,Singapore,Low
+C007,A060,Customer_7,N,Insurance,Russia,High,6554.4883,4752.59184,3,Low,T0070,2024-10-08,2405.16,Cash Deposit,1,United Kingdom,Low
+C009,A069,Customer_9,N,Bank Account,China,Medium,6491.67,4566.97516,1,Low,T0071,2025-09-13,5430.5646,Cash Deposit,1,United Kingdom,Low
+C039,A066,Customer_39,Y,Crypto,France,Low,5722.9904,4166.1797,3,Low,T0072,2024-04-13,5722.9904,Cash Withdrawal,1,Germany,Low
+C010,A075,Customer_10,Y,Loan,Singapore,Low,7316.1892,3940.82326,3,Low,T0073,2024-07-04,6241.4384,Cash Deposit,1,United Kingdom,Low
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0074,2024-02-22,6424.1409,Cash Deposit,1,Germany,Low
+C007,A060,Customer_7,N,Insurance,Russia,High,6554.4883,4752.59184,3,Low,T0075,2022-08-21,6554.4883,Wire Transfer,0,Russia,High
+C048,A019,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0076,2022-12-16,13953.6634,Cash Withdrawal,1,China,Medium
+C003,A011,Customer_3,Y,Crypto,Germany,Low,12736.07,10499.696325,5,Medium,T0077,2023-01-27,12366.8353,Wire Transfer,0,France,Low
+C049,A046,Customer_49,N,Crypto,United States,Medium,3250.7028,2362.4176,1,Low,T0078,2025-05-15,1191.0,Cash Withdrawal,1,United Kingdom,Low
+C029,A037,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0079,2026-01-01,9426.67,Cash Deposit,1,United States,Medium
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0080,2023-08-09,947.23,Cash Deposit,1,Germany,Low
+C045,A003,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0081,2024-09-19,120032.3586,Cash Deposit,1,Germany,Low
+C038,A051,Customer_38,N,Insurance,United States,Medium,6993.3595,6420.85605,2,Low,T0082,2025-06-19,6993.3595,Cash Deposit,1,Germany,Low
+C047,A047,Customer_47,Y,Bank Account,Nigeria,High,5411.4822,3959.6267,6,Medium,T0083,2023-03-06,4546.4244,Wire Transfer,0,Brazil,Medium
+C009,A069,Customer_9,N,Bank Account,China,Medium,6491.67,4566.97516,1,Low,T0084,2025-07-12,5328.81,Cash Withdrawal,1,Nigeria,High
+C047,A048,Customer_47,Y,Bank Account,Nigeria,High,5411.4822,3959.6267,6,Medium,T0085,2022-10-13,706.23,Cash Deposit,1,France,Low
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0086,2024-04-27,3470.487,Cash Withdrawal,1,Russia,High
+C002,A052,Customer_2,Y,Investment Account,United Kingdom,Low,5461.71,4004.7352,3,Low,T0087,2023-11-02,5135.25,Cash Deposit,1,Switzerland,Low
+C037,A067,Customer_37,N,Investment Account,Brazil,Medium,4907.9616,4160.80773333333,1,Low,T0088,2025-03-30,4907.9616,Wire Transfer,0,United Kingdom,Low
+C047,A047,Customer_47,Y,Bank Account,Nigeria,High,5411.4822,3959.6267,6,Medium,T0089,2023-04-07,5411.4822,Cash Deposit,1,France,Low
+C029,A038,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0090,2026-01-01,10980.5918,Wire Transfer,0,United Kingdom,Low
+C040,A064,Customer_40,Y,Investment Account,Switzerland,Low,3866.5734,2163.26736,3,Low,T0091,2024-05-06,2825.87,Cash Withdrawal,1,France,Low
+C010,A075,Customer_10,Y,Loan,Singapore,Low,7316.1892,3940.82326,3,Low,T0092,2023-10-20,1411.7846,Wire Transfer,0,France,Low
+C008,A001,Customer_8,Y,Insurance,Switzerland,Low,230954.2463,144000.142675,8,High,T0093,2025-05-01,230954.2463,Wire Transfer,0,Brazil,Medium
+C030,A049,Customer_30,N,Crypto,Switzerland,Low,6898.71,4667.36854,0,Low,T0094,2023-11-02,2635.31,Wire Transfer,0,Singapore,Low
+C032,A016,Customer_32,Y,Insurance,Singapore,Low,16213.0466,13495.530825,5,Medium,T0095,2025-01-09,9035.5642,Cash Withdrawal,1,Singapore,Low
+C026,A008,Customer_26,Y,Bank Account,France,Low,20721.727,17781.3940666667,8,High,T0096,2024-09-13,17281.9552,Cash Deposit,1,France,Low
+C039,A066,Customer_39,Y,Crypto,France,Low,5722.9904,4166.1797,3,Low,T0097,2023-10-24,2609.369,Wire Transfer,0,Russia,High
+C034,A031,Customer_34,Y,Loan,Brazil,Medium,19281.4107,13035.9839,6,Medium,T0098,2026-01-01,19281.4107,Cash Deposit,1,Singapore,Low
+C025,A054,Customer_25,N,Investment Account,Switzerland,Low,4939.3,2146.52123333333,0,Low,T0099,2024-05-23,835.5737,Cash Withdrawal,1,Brazil,Medium
+C045,A003,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0100,2023-04-18,254942.8224,Wire Transfer,0,United States,Medium
+C005,A073,Customer_5,N,Loan,France,Low,6608.1595,3854.551375,0,Low,T0101,2024-07-11,6608.1595,Cash Withdrawal,1,Nigeria,High
+C019,A061,Customer_19,N,Crypto,United States,Medium,5103.5683,3392.35742,1,Low,T0102,2025-05-05,2340.78,Wire Transfer,0,Nigeria,High
+C005,A073,Customer_5,N,Loan,France,Low,6608.1595,3854.551375,0,Low,T0103,2024-05-18,4051.2536,Cash Withdrawal,1,Singapore,Low
+C009,A069,Customer_9,N,Bank Account,China,Medium,6491.67,4566.97516,1,Low,T0104,2026-01-01,6491.67,Wire Transfer,0,Switzerland,Low
+C021,A065,Customer_21,N,Investment Account,United Kingdom,Low,6016.5351,4555.81674,0,Low,T0105,2023-08-13,5805.6708,Cash Deposit,1,Russia,High
+C004,A056,Customer_4,Y,Investment Account,France,Low,5175.64,3394.69286666667,3,Low,T0106,2023-05-14,5175.64,Cash Withdrawal,1,Germany,Low
+C048,A019,Customer_48,Y,Crypto,Nigeria,High,18711.7427,15926.5781,9,High,T0107,2023-02-13,11219.75,Cash Deposit,1,United Kingdom,Low
+C004,A056,Customer_4,Y,Investment Account,France,Low,5175.64,3394.69286666667,3,Low,T0108,2023-01-28,3884.104,Cash Withdrawal,1,China,Medium
+C019,A061,Customer_19,N,Crypto,United States,Medium,5103.5683,3392.35742,1,Low,T0109,2025-11-05,2455.343,Cash Withdrawal,1,United Kingdom,Low
+C046,A044,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0110,2025-05-14,876.0218,Cash Withdrawal,1,Singapore,Low
+C031,A022,Customer_31,Y,Investment Account,United Kingdom,Low,20192.6976,16554.8153,8,High,T0111,2024-01-01,12916.933,Cash Withdrawal,1,France,Low
+C018,A017,Customer_18,N,Insurance,Germany,Low,13630.8624,9498.4312,2,Low,T0112,2023-03-15,13630.8624,Wire Transfer,0,China,Medium
+C046,A044,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0113,2025-06-07,3174.5782,Cash Withdrawal,1,Singapore,Low
+C008,A001,Customer_8,Y,Insurance,Switzerland,Low,230954.2463,144000.142675,8,High,T0114,2026-01-01,43370.2244,Cash Withdrawal,1,United States,Medium
+C043,A059,Customer_43,N,Insurance,China,Medium,5899.9265,4379.9328,1,Low,T0115,2024-10-01,5899.9265,Wire Transfer,0,France,Low
+C019,A061,Customer_19,N,Crypto,United States,Medium,5103.5683,3392.35742,1,Low,T0116,2025-12-16,2061.4458,Cash Withdrawal,1,Brazil,Medium
+C024,A014,Customer_24,N,Loan,Switzerland,Low,18473.01,15359.62662,3,Low,T0117,2025-03-16,18473.01,Cash Deposit,1,United States,Medium
+C001,A033,Customer_1,N,Crypto,Switzerland,Low,16052.51,12116.5569,2,Low,T0118,2022-10-17,8180.6038,Cash Deposit,1,Nigeria,High
+C021,A065,Customer_21,N,Investment Account,United Kingdom,Low,6016.5351,4555.81674,0,Low,T0119,2024-07-02,5407.5166,Cash Deposit,1,France,Low
+C027,A057,Customer_27,N,Bank Account,France,Low,6270.25,4296.8837,0,Low,T0120,2024-03-09,2461.707,Wire Transfer,0,Switzerland,Low
+C018,A017,Customer_18,N,Insurance,Germany,Low,13630.8624,9498.4312,2,Low,T0121,2023-11-13,7117.3514,Cash Deposit,1,Singapore,Low
+C049,A045,Customer_49,N,Crypto,United States,Medium,3250.7028,2362.4176,1,Low,T0122,2025-01-07,2645.55,Cash Deposit,1,Germany,Low
+C020,A026,Customer_20,N,Crypto,Singapore,Low,20768.7535,13532.3371,4,Medium,T0123,2024-07-07,10849.31,Cash Deposit,1,Germany,Low
+C002,A052,Customer_2,Y,Investment Account,United Kingdom,Low,5461.71,4004.7352,3,Low,T0124,2023-10-06,1417.2456,Wire Transfer,0,Switzerland,Low
+C021,A065,Customer_21,N,Investment Account,United Kingdom,Low,6016.5351,4555.81674,0,Low,T0125,2024-03-21,3819.6432,Cash Withdrawal,1,United Kingdom,Low
+C014,A035,Customer_14,N,Insurance,China,Medium,12029.551,9308.50386666667,3,Low,T0126,2024-10-07,7276.86,Cash Withdrawal,1,France,Low
+C033,A055,Customer_33,Y,Crypto,Russia,High,6040.1179,3970.159675,6,Medium,T0127,2025-10-24,2292.9886,Cash Deposit,1,Germany,Low
+C044,A005,Customer_44,N,Investment Account,Singapore,Low,20614.4274,13903.28734,4,Medium,T0128,2024-06-20,11399.816,Cash Withdrawal,1,Singapore,Low
+C006,A062,Customer_6,N,Loan,Russia,High,6473.77,2893.32612,3,Low,T0129,2025-03-03,6473.77,Wire Transfer,0,Nigeria,High
+C022,A024,Customer_22,N,Crypto,Brazil,Medium,16835.6796,13917.162875,3,Low,T0130,2024-02-22,13506.56,Cash Withdrawal,1,Brazil,Medium
+C023,A030,Customer_23,Y,Bank Account,France,Low,17821.48,14040.08682,5,Medium,T0131,2025-11-26,12418.4521,Wire Transfer,0,Switzerland,Low
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0132,2024-04-06,5714.4099,Cash Withdrawal,1,United Kingdom,Low
+C034,A032,Customer_34,Y,Loan,Brazil,Medium,19281.4107,13035.9839,6,Medium,T0133,2026-01-01,10255.11,Cash Withdrawal,1,Brazil,Medium
+C029,A038,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0134,2025-12-07,13371.44,Cash Deposit,1,Singapore,Low
+C041,A041,Customer_41,N,Bank Account,United States,Medium,11699.2195,10904.1957,3,Low,T0135,2023-07-02,11699.2195,Cash Withdrawal,1,France,Low
+C001,A033,Customer_1,N,Crypto,Switzerland,Low,16052.51,12116.5569,2,Low,T0136,2023-07-03,16052.51,Cash Withdrawal,1,Russia,High
+C050,A039,Customer_50,N,Crypto,United Kingdom,Low,13212.9454,9886.92476666667,2,Low,T0137,2026-01-01,9214.0589,Wire Transfer,0,Brazil,Medium
+C024,A013,Customer_24,N,Loan,Switzerland,Low,18473.01,15359.62662,3,Low,T0138,2025-11-09,12527.5426,Cash Deposit,1,Brazil,Medium
+C032,A016,Customer_32,Y,Insurance,Singapore,Low,16213.0466,13495.530825,5,Medium,T0139,2024-10-06,14408.2241,Wire Transfer,0,United Kingdom,Low
+C024,A014,Customer_24,N,Loan,Switzerland,Low,18473.01,15359.62662,3,Low,T0140,2024-02-01,12637.3099,Cash Deposit,1,Germany,Low
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0141,2024-01-18,2910.3572,Cash Withdrawal,1,Brazil,Medium
+C022,A023,Customer_22,N,Crypto,Brazil,Medium,16835.6796,13917.162875,3,Low,T0142,2022-11-09,10118.32,Wire Transfer,0,France,Low
+C008,A001,Customer_8,Y,Insurance,Switzerland,Low,230954.2463,144000.142675,8,High,T0143,2024-09-10,192608.58,Cash Withdrawal,1,France,Low
+C038,A051,Customer_38,N,Insurance,United States,Medium,6993.3595,6420.85605,2,Low,T0144,2024-03-13,5848.3526,Wire Transfer,0,Germany,Low
+C012,A027,Customer_12,N,Insurance,Switzerland,Low,11689.6109,10024.9515666667,2,Low,T0145,2023-01-14,9397.1,Cash Withdrawal,1,Switzerland,Low
+C035,A071,Customer_35,N,Crypto,Switzerland,Low,5302.43,3120.10815,0,Low,T0146,2025-11-18,2689.74,Cash Deposit,1,Switzerland,Low
+C011,A070,Customer_11,N,Investment Account,France,Low,4507.42,3660.294075,0,Low,T0147,2025-02-23,3943.659,Cash Deposit,1,France,Low
+C040,A064,Customer_40,Y,Investment Account,Switzerland,Low,3866.5734,2163.26736,3,Low,T0148,2025-02-01,2226.9054,Cash Deposit,1,United States,Medium
+C046,A043,Customer_46,N,Insurance,Switzerland,Low,6242.3372,3721.22113333333,0,Low,T0149,2024-04-06,6242.3372,Cash Deposit,1,China,Medium
+C018,A017,Customer_18,N,Insurance,Germany,Low,13630.8624,9498.4312,2,Low,T0150,2022-07-10,8938.1594,Cash Withdrawal,1,Singapore,Low
+C011,A070,Customer_11,N,Investment Account,France,Low,4507.42,3660.294075,0,Low,T0151,2023-05-04,4493.3473,Cash Withdrawal,1,China,Medium
+C009,A069,Customer_9,N,Bank Account,China,Medium,6491.67,4566.97516,1,Low,T0152,2026-01-01,2988.42,Cash Withdrawal,1,France,Low
+C031,A022,Customer_31,Y,Investment Account,United Kingdom,Low,20192.6976,16554.8153,8,High,T0153,2023-03-01,20192.6976,Cash Deposit,1,Singapore,Low
+C013,A063,Customer_13,N,Insurance,United States,Medium,6103.0981,3907.62892,1,Low,T0154,2025-01-27,2554.4408,Wire Transfer,0,China,Medium
+C023,A029,Customer_23,Y,Bank Account,France,Low,17821.48,14040.08682,5,Medium,T0155,2024-08-17,10161.33,Cash Deposit,1,France,Low
+C030,A049,Customer_30,N,Crypto,Switzerland,Low,6898.71,4667.36854,0,Low,T0156,2025-05-04,5751.4747,Wire Transfer,0,Russia,High
+C033,A055,Customer_33,Y,Crypto,Russia,High,6040.1179,3970.159675,6,Medium,T0157,2026-01-01,5445.46,Cash Deposit,1,Singapore,Low
+C003,A011,Customer_3,Y,Crypto,Germany,Low,12736.07,10499.696325,5,Medium,T0158,2024-09-05,12736.07,Cash Withdrawal,1,Nigeria,High
+C003,A012,Customer_3,Y,Crypto,Germany,Low,12736.07,10499.696325,5,Medium,T0159,2023-02-12,7973.42,Wire Transfer,0,Germany,Low
+C047,A047,Customer_47,Y,Bank Account,Nigeria,High,5411.4822,3959.6267,6,Medium,T0160,2022-07-08,5174.3702,Cash Deposit,1,Switzerland,Low
+C012,A028,Customer_12,N,Insurance,Switzerland,Low,11689.6109,10024.9515666667,2,Low,T0161,2023-10-02,8988.1438,Wire Transfer,0,Brazil,Medium
+C045,A004,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0162,2023-09-17,167240.679,Wire Transfer,0,Russia,High
+C032,A016,Customer_32,Y,Insurance,Singapore,Low,16213.0466,13495.530825,5,Medium,T0163,2026-01-01,14325.2884,Wire Transfer,0,France,Low
+C034,A032,Customer_34,Y,Loan,Brazil,Medium,19281.4107,13035.9839,6,Medium,T0164,2025-01-02,7517.1224,Wire Transfer,0,Brazil,Medium
+C028,A053,Customer_28,N,Bank Account,Nigeria,High,5868.7788,4125.3862,3,Low,T0165,2026-01-01,2381.9936,Wire Transfer,0,France,Low
+C023,A029,Customer_23,Y,Bank Account,France,Low,17821.48,14040.08682,5,Medium,T0166,2026-01-01,14054.0254,Cash Deposit,1,Russia,High
+C005,A073,Customer_5,N,Loan,France,Low,6608.1595,3854.551375,0,Low,T0167,2024-11-06,2838.12,Cash Withdrawal,1,United States,Medium
+C023,A029,Customer_23,Y,Bank Account,France,Low,17821.48,14040.08682,5,Medium,T0168,2025-03-10,15745.1466,Wire Transfer,0,Nigeria,High
+C042,A068,Customer_42,Y,Bank Account,Germany,Low,4714.98,4006.6275,3,Low,T0169,2026-01-01,3298.275,Wire Transfer,0,Brazil,Medium
+C040,A064,Customer_40,Y,Investment Account,Switzerland,Low,3866.5734,2163.26736,3,Low,T0170,2024-09-12,900.0588,Wire Transfer,0,Nigeria,High
+C036,A072,Customer_36,N,Insurance,Singapore,Low,5694.017,4777.1066,0,Low,T0171,2024-05-19,5694.017,Cash Withdrawal,1,Nigeria,High
+C006,A062,Customer_6,N,Loan,Russia,High,6473.77,2893.32612,3,Low,T0172,2023-09-02,1171.42,Wire Transfer,0,China,Medium
+C007,A060,Customer_7,N,Insurance,Russia,High,6554.4883,4752.59184,3,Low,T0173,2024-05-08,3453.9921,Wire Transfer,0,Germany,Low
+C040,A064,Customer_40,Y,Investment Account,Switzerland,Low,3866.5734,2163.26736,3,Low,T0174,2026-01-01,996.9292,Cash Withdrawal,1,Switzerland,Low
+C024,A014,Customer_24,N,Loan,Switzerland,Low,18473.01,15359.62662,3,Low,T0175,2026-01-01,15229.9206,Wire Transfer,0,Nigeria,High
+C014,A036,Customer_14,N,Insurance,China,Medium,12029.551,9308.50386666667,3,Low,T0176,2024-02-16,12029.551,Wire Transfer,0,Germany,Low
+C004,A056,Customer_4,Y,Investment Account,France,Low,5175.64,3394.69286666667,3,Low,T0177,2024-03-16,1124.3346,Wire Transfer,0,Switzerland,Low
+C028,A053,Customer_28,N,Bank Account,Nigeria,High,5868.7788,4125.3862,3,Low,T0178,2026-01-01,5868.7788,Wire Transfer,0,Russia,High
+C034,A031,Customer_34,Y,Loan,Brazil,Medium,19281.4107,13035.9839,6,Medium,T0179,2025-05-23,13104.4564,Cash Deposit,1,Russia,High
+C011,A070,Customer_11,N,Investment Account,France,Low,4507.42,3660.294075,0,Low,T0180,2023-12-14,4507.42,Cash Deposit,1,Russia,High
+C033,A055,Customer_33,Y,Crypto,Russia,High,6040.1179,3970.159675,6,Medium,T0181,2025-09-25,6040.1179,Cash Withdrawal,1,Nigeria,High
+C030,A049,Customer_30,N,Crypto,Switzerland,Low,6898.71,4667.36854,0,Low,T0182,2024-07-01,6245.8468,Cash Deposit,1,Germany,Low
+C017,A058,Customer_17,N,Bank Account,France,Low,6424.22,3348.55941666667,0,Low,T0183,2024-11-09,1912.7518,Wire Transfer,0,Brazil,Medium
+C024,A013,Customer_24,N,Loan,Switzerland,Low,18473.01,15359.62662,3,Low,T0184,2025-06-30,17930.35,Cash Withdrawal,1,Germany,Low
+C041,A041,Customer_41,N,Bank Account,United States,Medium,11699.2195,10904.1957,3,Low,T0185,2024-07-30,10690.2644,Wire Transfer,0,Nigeria,High
+C027,A057,Customer_27,N,Bank Account,France,Low,6270.25,4296.8837,0,Low,T0186,2023-11-30,4158.6941,Wire Transfer,0,Nigeria,High
+C044,A006,Customer_44,N,Investment Account,Singapore,Low,20614.4274,13903.28734,4,Medium,T0187,2025-10-05,20614.4274,Wire Transfer,0,Switzerland,Low
+C029,A038,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0188,2025-11-18,16000.75,Cash Withdrawal,1,Nigeria,High
+C044,A005,Customer_44,N,Investment Account,Singapore,Low,20614.4274,13903.28734,4,Medium,T0189,2025-07-03,12801.5228,Wire Transfer,0,Nigeria,High
+C006,A062,Customer_6,N,Loan,Russia,High,6473.77,2893.32612,3,Low,T0190,2025-04-23,4577.5242,Cash Withdrawal,1,United Kingdom,Low
+C010,A075,Customer_10,Y,Loan,Singapore,Low,7316.1892,3940.82326,3,Low,T0191,2023-06-15,1913.8096,Cash Deposit,1,Nigeria,High
+C032,A016,Customer_32,Y,Insurance,Singapore,Low,16213.0466,13495.530825,5,Medium,T0192,2026-01-01,16213.0466,Cash Deposit,1,Russia,High
+C029,A038,Customer_29,N,Investment Account,Russia,High,16000.75,11709.07185,5,Medium,T0193,2026-01-01,10569.4493,Wire Transfer,0,Russia,High
+C045,A003,Customer_45,N,Loan,Singapore,Low,254942.8224,135007.7986,5,Medium,T0194,2023-10-25,39699.17,Cash Deposit,1,Germany,Low
+C020,A026,Customer_20,N,Crypto,Singapore,Low,20768.7535,13532.3371,4,Medium,T0195,2024-04-05,20768.7535,Cash Deposit,1,Brazil,Medium
+C036,A072,Customer_36,N,Insurance,Singapore,Low,5694.017,4777.1066,0,Low,T0196,2024-06-10,3860.1962,Wire Transfer,0,Brazil,Medium
+C016,A074,Customer_16,N,Loan,United States,Medium,6424.1409,4057.26991666667,1,Low,T0197,2024-06-01,558.12,Wire Transfer,0,United States,Medium
+C022,A023,Customer_22,N,Crypto,Brazil,Medium,16835.6796,13917.162875,3,Low,T0198,2024-01-26,15208.0919,Cash Withdrawal,1,France,Low
+C011,A070,Customer_11,N,Investment Account,France,Low,4507.42,3660.294075,0,Low,T0199,2023-09-22,1696.75,Cash Deposit,1,United States,Medium
+C026,A008,Customer_26,Y,Bank Account,France,Low,20721.727,17781.3940666667,8,High,T0200,2024-06-18,20721.727,Cash Withdrawal,1,Singapore,Low

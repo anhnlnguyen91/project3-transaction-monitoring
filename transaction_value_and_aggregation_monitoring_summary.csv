@@ -1,0 +1,7 @@
+customer_id,customer_risk_category,high_value_tx_count,largest_tx_amount_eur,cumulative_tx_alert_accounts,total_cumulative_tx_amount_eur,cash_aggregation_tx_count,total_cash_aggregation_amount_eur,primary_alert_type
+C008,High,3,230954.25,1,576000.57,0,,High-Value + Cumulative Activity
+C010,Low,0,,0,,3,15471.44,Cash Aggregation Pattern
+C011,Low,0,,0,,3,10147.83,Cash Aggregation Pattern
+C016,Low,0,,0,,3,16274.19,Cash Aggregation Pattern
+C045,Medium,4,254942.82,2,810046.79,0,,High-Value + Cumulative Activity
+C047,Medium,0,,0,,3,11292.08,Cash Aggregation Pattern

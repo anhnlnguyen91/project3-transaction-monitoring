@@ -1,0 +1,4 @@
+account_id,customer_id,full_name,total_tx_amount_eur,alert_reason
+A001,C008,Customer_8,576000.57,High Cumulative Tx (≥250k EUR)
+A003,C045,Customer_45,510092.61,High Cumulative Tx (≥250k EUR)
+A004,C045,Customer_45,299954.18,High Cumulative Tx (≥250k EUR)

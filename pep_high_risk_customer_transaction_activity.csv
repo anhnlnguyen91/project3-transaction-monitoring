@@ -1,0 +1,62 @@
+customer_id,account_id,full_name,pep_status,customer_risk_category,customer_country,customer_country_risk_level,clean_tx_date,tx_amount_eur,tx_type,is_cash,tx_country,tx_country_risk_level,alert_reason
+C002,A052,Customer_2,Y,Low,United Kingdom,Low,2023-10-06,5461.71,Cash Deposit,1,France,Low,PEP Activity
+C002,A052,Customer_2,Y,Low,United Kingdom,Low,2023-10-06,1417.25,Wire Transfer,0,Switzerland,Low,PEP Activity
+C002,A052,Customer_2,Y,Low,United Kingdom,Low,2023-11-02,5135.25,Cash Deposit,1,Switzerland,Low,PEP Activity
+C003,A011,Customer_3,Y,Medium,Germany,Low,2023-01-27,12366.84,Wire Transfer,0,France,Low,PEP Activity
+C003,A012,Customer_3,Y,Medium,Germany,Low,2023-02-12,7973.42,Wire Transfer,0,Germany,Low,PEP Activity
+C003,A011,Customer_3,Y,Medium,Germany,Low,2024-07-02,8922.46,Cash Withdrawal,1,Switzerland,Low,PEP Activity
+C003,A011,Customer_3,Y,Medium,Germany,Low,2024-09-05,12736.07,Cash Withdrawal,1,Nigeria,High,PEP Activity
+C004,A056,Customer_4,Y,Low,France,Low,2023-01-28,3884.1,Cash Withdrawal,1,China,Medium,PEP Activity
+C004,A056,Customer_4,Y,Low,France,Low,2023-05-14,5175.64,Cash Withdrawal,1,Germany,Low,PEP Activity
+C004,A056,Customer_4,Y,Low,France,Low,2024-03-16,1124.33,Wire Transfer,0,Switzerland,Low,PEP Activity
+C008,A001,Customer_8,Y,High,Switzerland,Low,2024-09-10,192608.58,Cash Withdrawal,1,France,Low,PEP + High Risk
+C008,A001,Customer_8,Y,High,Switzerland,Low,2024-09-11,109067.52,Cash Withdrawal,1,Russia,High,PEP + High Risk
+C008,A001,Customer_8,Y,High,Switzerland,Low,2025-05-01,230954.25,Wire Transfer,0,Brazil,Medium,PEP + High Risk
+C008,A001,Customer_8,Y,High,Switzerland,Low,2026-01-01,43370.22,Cash Withdrawal,1,United States,Medium,PEP + High Risk
+C010,A075,Customer_10,Y,Low,Singapore,Low,2022-09-30,2820.89,Cash Withdrawal,1,France,Low,PEP Activity
+C010,A075,Customer_10,Y,Low,Singapore,Low,2023-01-31,7316.19,Cash Deposit,1,United States,Medium,PEP Activity
+C010,A075,Customer_10,Y,Low,Singapore,Low,2023-06-15,1913.81,Cash Deposit,1,Nigeria,High,PEP Activity
+C010,A075,Customer_10,Y,Low,Singapore,Low,2023-10-20,1411.78,Wire Transfer,0,France,Low,PEP Activity
+C010,A075,Customer_10,Y,Low,Singapore,Low,2024-07-04,6241.44,Cash Deposit,1,United Kingdom,Low,PEP Activity
+C023,A029,Customer_23,Y,Medium,France,Low,2024-08-17,10161.33,Cash Deposit,1,France,Low,PEP Activity
+C023,A029,Customer_23,Y,Medium,France,Low,2025-03-10,15745.15,Wire Transfer,0,Nigeria,High,PEP Activity
+C023,A030,Customer_23,Y,Medium,France,Low,2025-11-26,12418.45,Wire Transfer,0,Switzerland,Low,PEP Activity
+C023,A029,Customer_23,Y,Medium,France,Low,2026-01-01,17821.48,Cash Withdrawal,1,Switzerland,Low,PEP Activity
+C023,A029,Customer_23,Y,Medium,France,Low,2026-01-01,14054.03,Cash Deposit,1,Russia,High,PEP Activity
+C026,A008,Customer_26,Y,High,France,Low,2024-06-18,20721.73,Cash Withdrawal,1,Singapore,Low,PEP + High Risk
+C026,A008,Customer_26,Y,High,France,Low,2024-09-13,17281.96,Cash Deposit,1,France,Low,PEP + High Risk
+C026,A008,Customer_26,Y,High,France,Low,2025-04-11,15340.5,Wire Transfer,0,Singapore,Low,PEP + High Risk
+C031,A022,Customer_31,Y,High,United Kingdom,Low,2023-03-01,20192.7,Cash Deposit,1,Singapore,Low,PEP + High Risk
+C031,A022,Customer_31,Y,High,United Kingdom,Low,2024-01-01,12916.93,Cash Withdrawal,1,France,Low,PEP + High Risk
+C032,A016,Customer_32,Y,Medium,Singapore,Low,2024-10-06,14408.22,Wire Transfer,0,United Kingdom,Low,PEP Activity
+C032,A016,Customer_32,Y,Medium,Singapore,Low,2025-01-09,9035.56,Cash Withdrawal,1,Singapore,Low,PEP Activity
+C032,A016,Customer_32,Y,Medium,Singapore,Low,2026-01-01,14325.29,Wire Transfer,0,France,Low,PEP Activity
+C032,A016,Customer_32,Y,Medium,Singapore,Low,2026-01-01,16213.05,Cash Deposit,1,Russia,High,PEP Activity
+C033,A055,Customer_33,Y,Medium,Russia,High,2025-05-04,2102.07,Cash Deposit,1,Germany,Low,PEP Activity
+C033,A055,Customer_33,Y,Medium,Russia,High,2025-09-25,6040.12,Cash Withdrawal,1,Nigeria,High,PEP Activity
+C033,A055,Customer_33,Y,Medium,Russia,High,2025-10-24,2292.99,Cash Deposit,1,Germany,Low,PEP Activity
+C033,A055,Customer_33,Y,Medium,Russia,High,2026-01-01,5445.46,Cash Deposit,1,Singapore,Low,PEP Activity
+C034,A032,Customer_34,Y,Medium,Brazil,Medium,2025-01-02,7517.12,Wire Transfer,0,Brazil,Medium,PEP Activity
+C034,A031,Customer_34,Y,Medium,Brazil,Medium,2025-05-23,13104.46,Cash Deposit,1,Russia,High,PEP Activity
+C034,A031,Customer_34,Y,Medium,Brazil,Medium,2026-01-01,15021.82,Wire Transfer,0,United Kingdom,Low,PEP Activity
+C034,A031,Customer_34,Y,Medium,Brazil,Medium,2026-01-01,19281.41,Cash Deposit,1,Singapore,Low,PEP Activity
+C034,A032,Customer_34,Y,Medium,Brazil,Medium,2026-01-01,10255.11,Cash Withdrawal,1,Brazil,Medium,PEP Activity
+C039,A066,Customer_39,Y,Low,France,Low,2023-10-24,2609.37,Wire Transfer,0,Russia,High,PEP Activity
+C039,A066,Customer_39,Y,Low,France,Low,2024-04-13,5722.99,Cash Withdrawal,1,Germany,Low,PEP Activity
+C040,A064,Customer_40,Y,Low,Switzerland,Low,2024-05-06,2825.87,Cash Withdrawal,1,France,Low,PEP Activity
+C040,A064,Customer_40,Y,Low,Switzerland,Low,2024-09-12,900.06,Wire Transfer,0,Nigeria,High,PEP Activity
+C040,A064,Customer_40,Y,Low,Switzerland,Low,2025-02-01,2226.91,Cash Deposit,1,United States,Medium,PEP Activity
+C040,A064,Customer_40,Y,Low,Switzerland,Low,2026-01-01,3866.57,Cash Withdrawal,1,Nigeria,High,PEP Activity
+C040,A064,Customer_40,Y,Low,Switzerland,Low,2026-01-01,996.93,Cash Withdrawal,1,Switzerland,Low,PEP Activity
+C042,A068,Customer_42,Y,Low,Germany,Low,2024-12-26,4714.98,Cash Deposit,1,France,Low,PEP Activity
+C042,A068,Customer_42,Y,Low,Germany,Low,2026-01-01,3298.28,Wire Transfer,0,Brazil,Medium,PEP Activity
+C047,A047,Customer_47,Y,Medium,Nigeria,High,2022-07-08,5174.37,Cash Deposit,1,Switzerland,Low,PEP Activity
+C047,A048,Customer_47,Y,Medium,Nigeria,High,2022-10-13,706.23,Cash Deposit,1,France,Low,PEP Activity
+C047,A047,Customer_47,Y,Medium,Nigeria,High,2023-03-06,4546.42,Wire Transfer,0,Brazil,Medium,PEP Activity
+C047,A047,Customer_47,Y,Medium,Nigeria,High,2023-04-07,5411.48,Cash Deposit,1,France,Low,PEP Activity
+C048,A019,Customer_48,Y,High,Nigeria,High,2022-12-16,13953.66,Cash Withdrawal,1,China,Medium,PEP + High Risk
+C048,A019,Customer_48,Y,High,Nigeria,High,2023-01-05,17612.78,Wire Transfer,0,China,Medium,PEP + High Risk
+C048,A019,Customer_48,Y,High,Nigeria,High,2023-02-13,11219.75,Cash Deposit,1,United Kingdom,Low,PEP + High Risk
+C048,A019,Customer_48,Y,High,Nigeria,High,2023-06-16,17099.88,Wire Transfer,0,Germany,Low,PEP + High Risk
+C048,A019,Customer_48,Y,High,Nigeria,High,2023-07-05,16961.65,Wire Transfer,0,United Kingdom,Low,PEP + High Risk
+C048,A020,Customer_48,Y,High,Nigeria,High,2024-01-09,18711.74,Cash Withdrawal,1,Nigeria,High,PEP + High Risk
